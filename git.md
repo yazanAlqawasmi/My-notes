@@ -1,10 +1,10 @@
 # How to Download Files on Github
 ## git 
-1. git checkout-b branshnam   (تستخدم عند انشاء المشروع اول مرة ) لانشاءنسخة جديدة
+1. git checkout-b xxxxxxx  (تستخدم عند انشاء المشروع اول مرة ) لانشاءنسخة جديدة
 1. git branch          لعرض النسخ الموجودة
 2. git add .            حفظ العمل
 3. git commit -m" hjkk"   تسميه العمل لي تم حفظه
-4. git push origin branshnam لرفع النسخه التي نريدها الى الغيتهوب
+4. git push origin xxxxxx لرفع النسخه التي نريدها الى الغيتهوب
 ## github
 - لانشاء مشروع جديد
 - We press the new repository
